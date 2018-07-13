@@ -1,4 +1,4 @@
-A collection of tools/helpers/frameworks I have collected and found useful or though might be potentially useful across more than one project.
+A collection of tools/helpers/frameworks I have collected and found useful or thought might be potentially useful across more than one project.
 
 |Wut|Badge|
 |:--|:-:|
